@@ -1,7 +1,7 @@
 {
-    "url": "https://bedf-193-56-12-196.ngrok-free.app",
+    "url": "https://43cd-193-56-12-196.ngrok-free.app",
     "name": "BUTTON App",
-    "iconUrl": "https://example.com/icon.png",
-    "termsOfUseUrl": "https://example.com/terms",
-    "privacyPolicyUrl": "https://example.com/privacy"
+    "iconUrl": "https://your-real-domain.com/icon.png",
+    "termsOfUseUrl": "https://your-real-domain.com/terms",
+    "privacyPolicyUrl": "https://your-real-domain.com/privacy"
 }
